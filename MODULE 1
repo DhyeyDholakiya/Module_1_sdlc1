@@ -1,0 +1,51 @@
+(1).      What is software? 
+==> the programs and  others operating information used by a computer.
+
+
+(2).     What is software engineering?
+==> as a process of analyzing user requirements and then designing,building,and
+         testing software application which will safisty those requirement.
+
+(3).    Explain types of software?
+==>  1. application software
+          2. programming software
+          3. middle wap software
+          4. gaming software
+          5. system software.
+
+(4).   What is SDLC?Explain each phase of SDLC?
+==>  software developement life style.
+          s/w requriement
+          s/w anaylsis
+          s/w designing
+          s/w development
+          s/w testing
+          s/w maintance.
+
+(5).  What is DFD? Create a DFD diagram on Flipkart?
+==>  Data flow diagram, is a diagram being used frequently in software design.
+
+(6).  What is Flow chart? Create a flowchart to make addition of two numbers?
+==>  It is a pictorial representation of algorithms. 
+          
+         Step 1: Start
+
+        Step 2: Declare variables num1, num2 and sum.
+
+        Step 3: Read values for num1, num2.
+
+        Step 4: Add num1 and num2 and assign the result to a variable sum.
+
+       Step 5: Display sum
+
+       Step 6: Stop.
+
+
+(7).   What is Use case Diagram? Create a use-case on bill payment on paytm?
+==> A use case diagram example developed for a Payment system.
+         Use this design as a use case diagram example for teaching. 
+        The design can also be customized as a use case diagram template,with Visual Paradigm's 
+        use case diagram tool.     	
+          
+        
+
